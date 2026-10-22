@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="congratulations">Happy Birthday,\n my teacher Ibrahim!</string>
+    <string name="sender">From Mohammed</string>
+</resources>
